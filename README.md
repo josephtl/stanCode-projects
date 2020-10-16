@@ -5,7 +5,7 @@ Watch my demo video *[DEMO VIDEOS!] (https://drive.google.com/drive/folders/1Gi3
 
 ## Projects Source Codes:
 * [Hangman](https://github.com/josephtl/stanCode-projects/tree/main/hangman_game)
-  #### python semantics & syntax
+  * python semantics & syntax
 ### [Weather Master](https://github.com/josephtl/stanCode-projects/tree/main/weather_master)
   #### python semantics & syntax
 ### [My Photoshop](https://github.com/josephtl/stanCode-projects/tree/main/my_photoshop)
